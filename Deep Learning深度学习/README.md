@@ -6,7 +6,7 @@
 
 ​            配套作业和解析**：**[**【中文】【deplearning.ai】【吴恩达课后作业目录】**](https://blog.csdn.net/u013733326/article/details/79827273)
 
-- **台大**[**李宏毅机器学习、深度学习**](https://www.bilibili.com/video/BV1JE411g7XF?from=search&seid=2145164568141336821)（*也可以看李宏毅老师，这门课涵盖范围蛮广的，评价也很高，注意评论区有资源哦~*
+- [**台大李宏毅机器学习、深度学习**](https://www.bilibili.com/video/BV1JE411g7XF?from=search&seid=2145164568141336821)（*也可以看李宏毅老师，这门课涵盖范围蛮广的，评价也很高，注意评论区有资源哦~*
 
   **推荐书籍**
 
