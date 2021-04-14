@@ -9,10 +9,10 @@ This Repositories is built for all AI learners in ZUCC to share information and 
 
 ## 学习资料整理：
 
-1. Python基础
-2. 深度学习框架
-3. Deep Learning深度学习
-4. Machine Learning机器学习
+1. [Python基础](https://github.com/ZUCC-AI/LearningMaterials/tree/master/Python%E5%9F%BA%E7%A1%80)
+2. [深度学习框架](https://github.com/ZUCC-AI/LearningMaterials/tree/master/Machine%20Learning%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
+3. [Deep Learning深度学习](https://github.com/ZUCC-AI/LearningMaterials/tree/master/Deep%20Learning%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)
+4. [Machine Learning机器学习](https://github.com/ZUCC-AI/LearningMaterials/tree/master/Machine%20Learning%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 
 上面每个文件夹下都有对应学习资料的百度云链接，或者视频、书籍链接。其他的一些杂七杂八的资料暂时没有整理（因为太费时间），有兴趣的同学可以加入群聊自取：
 
