@@ -2,10 +2,7 @@
 
 This Repositories is built for all AI learners in ZUCC to share information and learning materials.  
 
-- **仓库归属于**：CCAi (City college AI Lab)
-- **实验室坐标**：浙大城市学院理科四号楼538实验室
-- **指导老师**：孙老师
-- **建立目的**：本仓库主要用于所有ZUCC的AI学习者进行AI相关学习资料分享，包含了历年实验室优秀学长们积累的学习资料，希望给萌新们的起步提供指引。同样，仓库也需要未来的CCAi优秀学子们一起维护和传承下去，我们也希望有更多的AI爱好者可以加入我们实验室！
+本仓库主要用于所有ZUCC的AI学习者进行AI相关学习资料分享，包含了历年实验室优秀学长们积累的学习资料，希望给萌新们的起步提供指引。同样，仓库也需要未来的CCAi优秀学子们一起维护和传承下去，我们也希望有更多的AI爱好者可以加入CCAi！
 
 ## 学习资料整理：
 
