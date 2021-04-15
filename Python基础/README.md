@@ -2,7 +2,7 @@
 
 python这个东西学会基础就可以了，如果你是萌新，建议将下面两个资料过一遍，就可以上路了。
 
-1. [浙大python mooc]()
+1. [浙大python mooc](https://www.bilibili.com/video/BV11e411p7em?from=search&seid=6679893324745079912)
 2. [浙大python PTA 题库及解析](https://tuenity.blog.csdn.net/article/details/102724182)(配合mooc食用，某18级软工学长贡献)
 
 下面其他的资料是学长整理的，他自己也没看过，有兴趣可以去了解：
